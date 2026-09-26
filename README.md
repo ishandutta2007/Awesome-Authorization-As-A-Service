@@ -5,7 +5,7 @@
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Authorization-As-A-Service?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Authorization-As-A-Service/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Authorization-As-A-Service?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Authorization-As-A-Service/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Authorization-As-A-Service?style=flat-square)](https://github.com/ishandutta2007/Awesome-Authorization-As-A-Service/commits/main)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,10 +62,10 @@ Below is a curated table of commercial Authorization-as-a-Service SaaS vendors, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source fine-grained authorization engines provide full control, self-hostability, privacy, and high performance. Below are top production-proven open-source projects, sorted by **GitHub Star Count (Descending)**:
+Open-source fine-grained authorization engines provide full control, self-hostability, privacy, and high performance. Below are top production-proven open-source projects, sorted by **GitHub Stars_Count (Descending)**:
 
 ### 1. 🏆 **Casbin** (`apache/casbin`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/casbin/casbin?style=social&color=white)](https://github.com/casbin/casbin/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/casbin/casbin?style=social&color=white)](https://github.com/casbin/casbin/stargazers)
 - **Primary Language**: Go (SDKs in 10+ languages)
 - **License**: Apache-2.0
 - **Description**: An embeddable open-source authorization library supporting ACL, RBAC, ABAC, RESTful, and domain-based access control models via flexible CONF policy definition files.
@@ -74,7 +74,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 2. 🚀 **SuperTokens Core** (`supertokens/supertokens-core`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)
 - **Primary Language**: Java / TypeScript
 - **License**: Apache-2.0
 - **Description**: Open-source user authentication & user-role authorization solution with session management, multi-tenancy, and user management APIs.
@@ -83,7 +83,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 3. 🌐 **Open Policy Agent (OPA)** (`open-policy-agent/opa`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0 (CNCF Graduated)
 - **Description**: CNCF Graduated general-purpose open policy decision engine using the declarative Rego language for microservice HTTP authorization, Kubernetes admission control, and infrastructure compliance.
@@ -92,7 +92,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 4. 🔒 **SpiceDB** (`authzed/spicedb`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/authzed/spicedb?style=social&color=white)](https://github.com/authzed/spicedb/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/authzed/spicedb?style=social&color=white)](https://github.com/authzed/spicedb/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0
 - **Description**: Open-source, Google Zanzibar-inspired permission database created by AuthZed, designed to store and evaluate relationship tuples (`user:alice is reader of doc:1`) with strong consistency.
@@ -101,7 +101,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 5. ⚡ **Permify** (`Permify/permify`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/Permify/permify?style=social&color=white)](https://github.com/Permify/permify/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/Permify/permify?style=social&color=white)](https://github.com/Permify/permify/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0
 - **Description**: Open-source Google Zanzibar-based authorization service designed to build scalable, multi-tenant permission systems using custom DSL schemas and context-aware checks.
@@ -110,7 +110,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 6. 🛡️ **OpenFGA** (`openfga/openfga`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/openfga/openfga?style=social&color=white)](https://github.com/openfga/openfga/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/openfga/openfga?style=social&color=white)](https://github.com/openfga/openfga/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0 (CNCF Incubating)
 - **Description**: CNCF Incubating relationship-based authorization engine inspired by Google Zanzibar, created by Okta/Auth0 for high-performance fine-grained authorization (FGA) with DSL & JSON schemas.
@@ -119,7 +119,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 7. 🔑 **Ory Keto** (`ory/keto`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/ory/keto?style=social&color=white)](https://github.com/ory/keto/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/ory/keto?style=social&color=white)](https://github.com/ory/keto/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0
 - **Description**: Open-source implementation of Google's Zanzibar paper written in Go, forming the relationship-based access control layer of the Ory identity & security ecosystem.
@@ -128,7 +128,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 8. 📦 **Cerbos** (`cerbos/cerbos`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/cerbos/cerbos?style=social&color=white)](https://github.com/cerbos/cerbos/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/cerbos/cerbos?style=social&color=white)](https://github.com/cerbos/cerbos/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0
 - **Description**: Open-source stateless policy decision point (PDP) using human-readable YAML/JSON policies, AuthZEN standards compliance, and container sidecar or microservice deployments.
@@ -137,7 +137,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 9. 🐻 **Oso** (`osohq/oso`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/osohq/oso?style=social&color=white)](https://github.com/osohq/oso/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/osohq/oso?style=social&color=white)](https://github.com/osohq/oso/stargazers)
 - **Primary Language**: Rust / Python / Node / Go
 - **License**: Apache-2.0
 - **Description**: Open-source authorization framework and Polar declarative policy language for embedding granular access control rules directly inside application code.
@@ -146,7 +146,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 10. ☕ **jCasbin** (`casbin/jcasbin`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/casbin/jcasbin?style=social&color=white)](https://github.com/casbin/jcasbin/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/casbin/jcasbin?style=social&color=white)](https://github.com/casbin/jcasbin/stargazers)
 - **Primary Language**: Java
 - **License**: Apache-2.0
 - **Description**: Java edition of the Casbin authorization library supporting Spring Boot, Quarkus, Micronaut, and enterprise JVM permission management.
@@ -155,7 +155,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 11. 🐍 **PyCasbin** (`casbin/pycasbin`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/casbin/pycasbin?style=social&color=white)](https://github.com/casbin/pycasbin/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/casbin/pycasbin?style=social&color=white)](https://github.com/casbin/pycasbin/stargazers)
 - **Primary Language**: Python
 - **License**: Apache-2.0
 - **Description**: Python implementation of Casbin access control framework for Django, FastAPI, Flask, and AsyncIO microservices.
@@ -164,7 +164,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 12. 🌲 **Cedar Policy** (`cedar-policy/cedar`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/cedar-policy/cedar?style=social&color=white)](https://github.com/cedar-policy/cedar/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/cedar-policy/cedar?style=social&color=white)](https://github.com/cedar-policy/cedar/stargazers)
 - **Primary Language**: Rust
 - **License**: Apache-2.0
 - **Description**: AWS open-source policy language and SDK for expressive, fast, and provably secure deterministic authorization logic.
@@ -173,7 +173,7 @@ Open-source fine-grained authorization engines provide full control, self-hostab
 ---
 
 ### 13. 💎 **Topaz** (`aserto-dev/topaz`)
-- **Star Rating**: ⭐ [![GitHub stars](https://img.shields.io/github/stars/aserto-dev/topaz?style=social&color=white)](https://github.com/aserto-dev/topaz/stargazers)
+- **Star Rating**: ⭐ [![GitHub_Stars](https://img.shields.io/github/stars/aserto-dev/topaz?style=social&color=white)](https://github.com/aserto-dev/topaz/stargazers)
 - **Primary Language**: Go
 - **License**: Apache-2.0
 - **Description**: Open-source authorization engine combining Open Policy Agent (OPA) Rego policies with Google Zanzibar relationship-based access control (ReBAC).
